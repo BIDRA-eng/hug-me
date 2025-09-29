@@ -1,0 +1,5 @@
+{
+  "name": "huge me",
+  "description": "An application that uses generative AI to create a picture of a user as an adult hugging their younger self, based on two uploaded photos.",
+  "requestFramePermissions": []
+}
